@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[
+    {"name":"object","order":2,"path":"folders/object.yy",},
+    {"name":"sprite","order":1,"path":"folders/sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Ocoin","order":3,"path":"objects/Ocoin/Ocoin.yy",},
+    {"name":"Oplatform","order":1,"path":"objects/Oplatform/Oplatform.yy",},
+    {"name":"oscore","order":7,"path":"objects/oscore/oscore.yy",},
+    {"name":"oslime","order":2,"path":"objects/oslime/oslime.yy",},
+    {"name":"oSolid","order":4,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"Ospawner","order":5,"path":"objects/Ospawner/Ospawner.yy",},
+    {"name":"sbackground","order":4,"path":"sprites/sbackground/sbackground.yy",},
+    {"name":"scoin","order":3,"path":"sprites/scoin/scoin.yy",},
+    {"name":"Splatform","order":1,"path":"sprites/Splatform/Splatform.yy",},
+    {"name":"Sslime","order":2,"path":"sprites/Sslime/Sslime.yy",},
+  ],
+}
